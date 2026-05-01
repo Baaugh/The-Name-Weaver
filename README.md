@@ -22,7 +22,7 @@ Future updates will include:
 - Character generation tools
 - Continuous feature expansions
 
-I plan to consistently update this app because my own experience taught me that finding the right tool—or even the right website—to write stories can take months or even years. That’s time no creator should have to waste. Whether you're a seasoned writer or just starting out, this tool is being built with you in mind.
+I plan to consistently update this app because my own experience taught me that finding the right tool or even the right website to write stories can take months or even years. That’s time no creator should have to waste. Whether you're a seasoned writer or just starting out, this tool is being built with you in mind.
 ___
 🚀 Long-Term Mission
 
@@ -34,4 +34,4 @@ D&D campaign creation
 Deep world-building tools
 Systems for crafting expansive, immersive universes
 
-This isn’t just a writing tool—it’s a foundation for building worlds beyond imagination.
+This isn’t just a writing tool it’s a foundation for building worlds beyond imagination.
