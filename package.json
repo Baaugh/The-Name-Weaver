@@ -1,0 +1,47 @@
+{
+  "name": "the-name-weaver",
+  "version": "1.0.0",
+  "description": "A fantasy name generator, novel writer, and knowledge graph suite. Supports multiple realm styles, animated themes, drag-and-drop file management, and Obsidian-style graph linking via @mentions.",
+  "main": "FantasyNameWeaver.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "keywords": [
+    "fantasy",
+    "name-generator",
+    "novel-writer",
+    "graph-view",
+    "worldbuilding",
+    "react",
+    "obsidian-style"
+  ],
+  "author": "Baaugh",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
